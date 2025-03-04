@@ -266,7 +266,3 @@ For questions, suggestions, or collaborations, please reach out:
 
 - GitHub: [muhammadhamzagova666](https://github.com/muhammadhamzagova666)
 - LinkedIn: [muhammadhamzagova666](https://www.linkedin.com/in/muhammadhamzagova666)
-
----
-
-© 2024 Muhammad Hamza Gova. All Rights Reserved.
