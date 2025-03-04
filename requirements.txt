@@ -1,0 +1,16 @@
+# Core web framework
+flask==2.3.2
+MarkupSafe==2.1.3
+
+# AWS integration
+s3transfer==0.6.1
+
+# Environment variables management
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.0
+pytest-flask==1.2.0
+
+# CI/CD helpers
+awscli==1.27.160
