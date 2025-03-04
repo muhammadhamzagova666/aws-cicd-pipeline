@@ -1,6 +1,6 @@
 # AWS CI/CD Pipeline - Todo List Application
 
-> Fully automated integration and continuous deployment pipeline for web applications on AWS
+> Fully automated continuous integration and continuous deployment pipeline for web applications on AWS
 
 ## Overview
 
